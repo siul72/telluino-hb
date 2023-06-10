@@ -48,7 +48,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -165,8 +171,15 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -409,7 +422,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.508,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
@@ -419,12 +432,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+5V": "VSW",
-      "/arduino_controller/RESET*": "RESET*",
-      "/arduino_controller/RUN": "RUN",
-      "unconnected-(Q2-B-Pad1)": "3.3V"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -476,22 +484,6 @@
     [
       "3bd12265-4173-4d6b-91eb-5b474bc7bb16",
       ""
-    ],
-    [
-      "14dbbff9-3cfb-49d8-8c76-2abe81712cc0",
-      "slic"
-    ],
-    [
-      "47fd81fb-bb6e-4c28-8162-8bf84b70df9e",
-      "buck_boost_suplly"
-    ],
-    [
-      "de427dad-d24a-4626-86e4-06027dc022b9",
-      "connectors"
-    ],
-    [
-      "155b2f34-2ecb-4975-a29a-28e28a768e33",
-      "arduino_controller"
     ]
   ],
   "text_variables": {}
