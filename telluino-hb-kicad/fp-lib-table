@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "teluino")(type "KiCad")(uri "C:/Users/siul72/Downloads/ul_ZXTP2012Z/KiCADv6/2023-05-28_10-48-44/footprints.pretty")(options "")(descr ""))
+  (lib (name "teluino2")(type "KiCad")(uri "C:/Users/siul72/Downloads/ul_ES1C-13-F/KiCADv6/2023-05-28_16-43-39/footprints.pretty")(options "")(descr ""))
+  (lib (name "my_lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lib/Library.pretty")(options "")(descr ""))
+)

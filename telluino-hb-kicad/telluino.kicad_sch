@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3bd12265-4173-4d6b-91eb-5b474bc7bb16)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 41.91 44.45) (size 78.74 41.91) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 185 129 255 1.0000))
+    (uuid 14dbbff9-3cfb-49d8-8c76-2abe81712cc0)
+    (property "Sheetname" "slic" (at 41.91 43.7384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "slic.kicad_sch" (at 41.91 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "telluino"
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 45.72 105.41) (size 60.96 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 155b2f34-2ecb-4975-a29a-28e28a768e33)
+    (property "Sheetname" "arduino_controller" (at 45.72 104.6984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "arduino_controllers.kicad_sch" (at 45.72 142.8246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "telluino"
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 135.89 45.72) (size 54.61 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 47fd81fb-bb6e-4c28-8162-8bf84b70df9e)
+    (property "Sheetname" "buck_boost_suplly" (at 135.89 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "buck_boot_supply.kicad_sch" (at 135.89 79.3246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "telluino"
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 137.16 101.6) (size 53.34 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid de427dad-d24a-4626-86e4-06027dc022b9)
+    (property "Sheetname" "connectors" (at 137.16 100.8884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "connectors.kicad_sch" (at 137.16 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "telluino"
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

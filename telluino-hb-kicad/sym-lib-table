@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "teluino")(type "KiCad")(uri "C:/Users/siul72/Downloads/ul_ZXTP2012Z/KiCADv6/2023-05-28_10-48-44/2023-05-28_10-48-44.kicad_sym")(options "")(descr ""))
+  (lib (name "teluino2")(type "KiCad")(uri "C:/Users/siul72/Downloads/ul_ES1C-13-F/KiCADv6/2023-05-28_16-43-39/2023-05-28_16-43-39.kicad_sym")(options "")(descr ""))
+  (lib (name "my_lib")(type "KiCad")(uri "${KIPRJMOD}/lib/DS2433S_.kicad_sym")(options "")(descr ""))
+  (lib (name "pin_30_02")(type "KiCad")(uri "${KIPRJMOD}/lib/77313-101-30LF.kicad_sym")(options "")(descr ""))
+  (lib (name "SS1P3L")(type "KiCad")(uri "${KIPRJMOD}/lib/SS1P3L.kicad_sym")(options "")(descr ""))
+  (lib (name "MSMF050")(type "KiCad")(uri "${KIPRJMOD}/lib/MF-MSMF050-2.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0108")(type "KiCad")(uri "${KIPRJMOD}/lib/TXS0108EPWRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector1")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector.kicad_sym")(options "")(descr ""))
+)
