@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\siul72\Documents\workspace\telluino-hb\telluino-hb-kicad\telluino.kicad_sch</source>
-    <date>14.06.2023 07:34:41</date>
+    <date>14.06.2023 13:57:43</date>
     <tool>Eeschema 7.0.2</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -25,7 +25,7 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>0.1 uF/100V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -91,7 +91,7 @@
       <tstamps>b82ba65a-da8f-4c44-8fd6-cd0e5c50c427</tstamps>
     </comp>
     <comp ref="C7">
-      <value>4.7 uF/8.3V</value>
+      <value>4.7uF/8.3V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -102,7 +102,7 @@
       <tstamps>8abd6670-7e1a-4151-ad96-af3b8683b49e</tstamps>
     </comp>
     <comp ref="C8">
-      <value>4.7 uF/8.3V</value>
+      <value>4.7uF/8.3V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -113,7 +113,7 @@
       <tstamps>0bd83c8b-4d89-4f5e-bb77-28c6770d4cc7</tstamps>
     </comp>
     <comp ref="C9">
-      <value>4.7 uF/8.3V</value>
+      <value>4.7uF/8.3V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -135,7 +135,7 @@
       <tstamps>5e3602df-c820-4027-8985-39139f96cf9d</tstamps>
     </comp>
     <comp ref="C11">
-      <value>100nF/25V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -169,7 +169,7 @@
     </comp>
     <comp ref="C15">
       <value>0.1uF/100V</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="telluino.kicad_sch"/>
@@ -202,7 +202,7 @@
       <tstamps>a45d8744-a71c-4d86-974d-7c6173bdc58a</tstamps>
     </comp>
     <comp ref="C18">
-      <value>0.1uF/18V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -235,7 +235,7 @@
       <tstamps>a77598ad-a9d6-4511-9cf1-6205bdd1d19f</tstamps>
     </comp>
     <comp ref="C21">
-      <value>0.1uF/16V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -246,7 +246,7 @@
       <tstamps>dc5caab3-89b3-4179-b6c4-8feb519f30e1</tstamps>
     </comp>
     <comp ref="C22">
-      <value>1uF/8.3V</value>
+      <value>1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -257,7 +257,7 @@
       <tstamps>96025f0f-3b59-4713-8b58-fae434e41f55</tstamps>
     </comp>
     <comp ref="C23">
-      <value>0.1uF</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -268,7 +268,7 @@
       <tstamps>4c8ad605-c183-4989-ab50-642f086cd25b</tstamps>
     </comp>
     <comp ref="C24">
-      <value>0.1uF</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -279,7 +279,7 @@
       <tstamps>8ae2c7b7-98fd-4910-9268-189e9e042ae6</tstamps>
     </comp>
     <comp ref="C25">
-      <value>100nF</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -290,7 +290,7 @@
       <tstamps>36a73f62-e3b8-4d9e-ab09-5c9a5440b9e2</tstamps>
     </comp>
     <comp ref="C26">
-      <value>10uF_16V</value>
+      <value>10uF/25V</value>
       <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -301,7 +301,7 @@
       <tstamps>07378321-272b-45a4-a5df-115df57d43b0</tstamps>
     </comp>
     <comp ref="C31">
-      <value>0.1 uF/16V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -312,7 +312,7 @@
       <tstamps>25e51eb4-286c-4712-9609-d99825e59a47</tstamps>
     </comp>
     <comp ref="C35">
-      <value>0.1 uF/16V</value>
+      <value>0.1uF/100V</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -703,7 +703,7 @@
       <tstamps>a6754c87-6828-4980-993a-7707c8270bcd</tstamps>
     </comp>
     <comp ref="R11">
-      <value>10K</value>
+      <value>10K 1%</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -725,7 +725,7 @@
       <tstamps>005e3c7a-b8ee-4f46-b4f1-3df6ea68a46e</tstamps>
     </comp>
     <comp ref="R13">
-      <value>75R</value>
+      <value>75R 5%</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
