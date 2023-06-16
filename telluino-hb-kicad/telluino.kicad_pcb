@@ -1042,6 +1042,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/lib/1-1734028-1.stp"
+      (offset (xyz 10.5 0 0.73))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 -180 90))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
@@ -2054,6 +2059,11 @@
       (net 18 "+3V3") (pinfunction "14") (pintype "passive") (tstamp df34d341-4d03-4d85-90c6-d8bacf98a81a))
     (pad "15" thru_hole circle (at 17.78 0) (size 1.37 1.37) (drill 1.02) (layers "*.Cu" "*.Mask")
       (net 36 "DCLK_5") (pinfunction "15") (pintype "passive") (tstamp ed5b0fc9-19c0-4971-8aef-9123246a91f6))
+    (model "${KIPRJMOD}/lib/SSQ-115-01-F-S.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Diode_SMD:D_SMA" (layer "F.Cu")
@@ -4297,6 +4307,11 @@
       (net 40 "DIN_5") (pinfunction "14") (pintype "passive") (tstamp f7320851-fc3d-44a5-a1de-9cdd1ad195d5))
     (pad "15" thru_hole circle (at 17.78 0) (size 1.37 1.37) (drill 1.02) (layers "*.Cu" "*.Mask")
       (net 42 "DOUT_5") (pinfunction "15") (pintype "passive") (tstamp 32d96c3a-79bd-4b26-98ac-ed41c5413066))
+    (model "${KIPRJMOD}/lib/SSQ-115-01-F-S.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_4.3mm_M4" (layer "F.Cu")
@@ -5686,10 +5701,10 @@
       (net 108 "unconnected-(J1-Pad5)") (pintype "passive") (tstamp eae44ec8-c3af-436f-89a7-12f04e8cc10d))
     (pad "6" thru_hole circle (at 6.35 2.54 270) (size 1.52 1.52) (drill 0.76) (layers "*.Cu" "*.Mask")
       (net 109 "unconnected-(J1-Pad6)") (pintype "passive") (tstamp 074ea904-8ef3-4822-a71b-e2ba89fdf222))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/lib/RJ11-6N-B.step"
+      (offset (xyz 3.06 -16.55 -1.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -18719,12 +18734,6 @@
         (xy 131.511425 84.341249)
         (xy 218.612 84.341249)
       )
-    )
-  )
-  (group "" (id 77d42a36-9c58-4654-b969-590f15abd39e)
-    (members
-      39a12165-25aa-4a9c-bb6c-1b187e47f55f
-      9e498fe9-196a-4238-a611-fc3bd2d4fb2c
     )
   )
 )
