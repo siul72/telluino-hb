@@ -1,4 +1,4 @@
-21702539075318017
+21704226016789527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90292,6 +90292,13 @@ ZXTP2012Z
 0
 3
 3
+my_lib
+TE_RJ11-6N-B
+
+
+0
+6
+6
 my_lib
 ptc-4-mf-sd
 
