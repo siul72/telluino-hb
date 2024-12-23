@@ -1,0 +1,4 @@
+- footprint of schokty diode to be smaller
+- Mirror the connector of arduino uno
+- Resize footprint of inductor 22H
+- Resize 0406 to 0602

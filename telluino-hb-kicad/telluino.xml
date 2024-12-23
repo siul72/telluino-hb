@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
+<<<<<<< HEAD
     <source>C:\Users\coelhol2\workspace\telluino-hb\telluino-hb-kicad\telluino.kicad_sch</source>
     <date>07.07.2023 14:22:02</date>
+=======
+    <source>C:\Users\siul72\Documents\workspace\telluino-hb\telluino-hb-kicad\telluino.kicad_sch</source>
+    <date>07.07.2023 23:52:57</date>
+>>>>>>> 79d728c8cafc274838fa17cfd2f82ad7cf2ba811
     <tool>Eeschema 7.0.2</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
